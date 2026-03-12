@@ -42,6 +42,6 @@ I am a second-year **Computer Engineering** student at **Vishwakarma Institute o
 ---
 
 ### 📫 Let's Connect!
-* [cite_start]**Email:** [Vedika2225@gmail.com](mailto:Vedika2225@gmail.com) [cite: 19]
+* **Email:** [Vedika2225@gmail.com](mailto:Vedika2225@gmail.com)
 * **LinkedIn:** [www.linkedin.com/in/vedikakore]
-* [cite_start]**Location:** Pune, India [cite: 18]
+* **Location:** Pune, India
