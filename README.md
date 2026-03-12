@@ -27,7 +27,7 @@ I am a second-year **Computer Engineering** student at **Vishwakarma Institute o
 
 ---
 
-### 🏅 Achievements & Certifications
+### 🏅 Achievements & Certifications 
 
 * **Best Outgoing Student (2025):** Awarded for academic and extracurricular excellence at LESP Sangli.
 * **TCS iON Career Edge Certified:** Training in Business Etiquette, Leadership, Communication, and AI.
