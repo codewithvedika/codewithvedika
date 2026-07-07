@@ -2,7 +2,7 @@
 
 ### 🚀 Computer Engineering Student | Full-Stack Developer | Lead Organizer
 
-I am a second-year **Computer Engineering** student at **Vishwakarma Institute of Technology (VIT), Pune**. I bridge the gap between technical engineering and leadership, with a strong focus on building scalable web applications and intelligent IoT systems.
+I am a **Computer Engineering** student at **Vishwakarma Institute of Technology (VIT), Pune**. I bridge the gap between technical engineering and leadership, with a strong focus on building scalable web applications and intelligent IoT systems.
 
 ---
 
